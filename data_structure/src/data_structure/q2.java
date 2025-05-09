@@ -28,7 +28,5 @@ public class q2 {
 				System.out.println(q.isEmpty() ? "-1":q.getLast());
 			}
 		}
-
 	}
-
 }
