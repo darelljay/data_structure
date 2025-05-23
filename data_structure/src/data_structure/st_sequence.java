@@ -1,4 +1,4 @@
-package data_structure1;
+package data_structure;
 import java.util.Stack;
 import java.util.Scanner;
 public class st_sequence {
